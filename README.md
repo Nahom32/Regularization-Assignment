@@ -85,3 +85,9 @@ The dataset used in this project is the **Star dataset**, which contains feature
 
 ## **Conclusion**
 Noise injection is an effective regularization technique for reducing overfitting in high-capacity models like Decision Trees. By introducing small perturbations to the training data, the model is encouraged to generalize better and focus on broader trends. This project demonstrates the utility of noise injection in improving the generalization of an overfitted model while maintaining reasonable accuracy.
+
+## **Group Members**
+| Name                    | ID         |
+|-------------------------|------------|
+| Nahom Senay             | GSR/4848/17| 
+| Tigist Wondimagegnehu   | GSR/5506/17|
